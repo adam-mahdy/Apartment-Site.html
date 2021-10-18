@@ -1,0 +1,1212 @@
+.Side-bar {
+    background-color: rgb(238, 238, 238);
+    width: 250px;
+    height: 747px;
+    position: absolute;
+    left: 270px;
+}
+
+.Side-h2-1 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+
+.Side-h2-2 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+
+.Side-h4-1 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+
+.Input-1 {
+    width: 210px;
+    height: 30px;
+    position: absolute;
+    left: 10px;
+    top: 215px;
+}
+
+.Input-2 {
+    width: 210px;
+    height: 30px;
+    position: absolute;
+    left: 10px;
+    top: 305px;
+}
+
+.Input-3 {
+    width: 210px;
+    height: 30px;
+    position: absolute;
+    left: 10px;
+    top: 395px;
+}
+
+.Input-4 {
+    width: 210px;
+    height: 30px;
+    position: absolute;
+    left: 10px;
+    top: 485px;
+}
+
+.Label-1 {
+    width: 210px;
+    height: 30px;
+    position: absolute;
+    left: 20px;
+    top: 185px;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+}
+
+.Label-2 {
+    width: 210px;
+    height: 30px;
+    position: absolute;
+    left: 20px;
+    top: 275px;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+}
+
+.Label-3 {
+    width: 210px;
+    height: 30px;
+    position: absolute;
+    left: 20px;
+    top: 365px;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+}
+
+.Label-4 {
+    width: 210px;
+    height: 30px;
+    position: absolute;
+    left: 20px;
+    top: 455px;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+}
+
+.button-1 {
+    position: absolute;
+    top: 535px;
+    color: white;
+    background-color: rgb(2, 182, 2);
+    width: 220px;
+    height: 36px;
+    position: absolute;
+    left: 10px;
+    cursor: pointer;
+}
+
+.button-1:hover {
+    background-color: rgb(172, 172, 172);
+    color: black 3;
+}
+
+.h1-1 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    color: rgb(2, 182, 2);
+    position: absolute;
+    left: 545px;
+    top: -10px;
+}
+
+#Main-Img {
+    width: 690px;
+    position: absolute;
+    top: 65px;
+    left: 546px;
+}
+
+.Img {
+    width: 161px;
+    position: absolute;
+    top: 455px;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.Img-1 {
+    position: absolute;
+    left: 546px;
+    opacity: 1.0;
+}
+
+.Img-2 {
+    position: absolute;
+    left: 720px;
+}
+
+.Img-3 {
+    position: absolute;
+    left: 894px;
+}
+
+.Img-4 {
+    position: absolute;
+    left: 1070px;
+}
+
+
+Img:hover {
+    opacity: 1.0;
+}
+
+.Main-h2-1 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 550px;
+    top: 550px;
+}
+
+.Main-h3-1 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 600px;
+}
+
+.Main-h3-2 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 635px;
+}
+
+.Main-h3-3 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 670px;
+}
+
+.Main-h3-4 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 900px;
+    top: 600px;
+}
+
+.Main-h3-5 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 900px;
+    top: 650px;
+}
+
+.Main-h2-2 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 800px;
+}
+
+.Main-h3-6 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 860px;
+}
+
+.Main-h3-7 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 905px;
+}
+
+.Main-h3-8 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 950px;
+}
+
+.Main-h3-9 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 900px;
+    top: 850px;
+}
+
+.Main-h3-10 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 900px;
+    top: 900px;
+}
+
+.Main-h3-11 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 900px;
+    top: 950px;
+}
+
+.Main-h2-3 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 1040px;
+}
+
+.p-1 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 1100px;
+}
+
+.p-2 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 1200px;
+}
+
+.Main-h2-4 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 1270px;
+}
+
+.p-3 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 1320px;
+}
+
+.p-4 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 560px;
+    top: 1395px;
+}
+
+.Main-butt-1 {
+    color: white;
+    background-color: rgb(2, 182, 2);
+    width: 220px;
+    height: 36px;
+    position: absolute;
+    left: 10px;
+    cursor: pointer;
+    position: absolute;
+    top: 1450px;
+    left: 560px;
+}
+
+.Main-butt-1:hover {
+    color: black;
+    background-color: rgb(172, 172, 172);
+}
+
+.h1-2 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 1520px;
+    left: 560px;
+}
+
+.p-5 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 1580px;
+    left: 580px;
+}
+
+.p-6 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 1605px;
+    left: 580px;
+}
+
+.p-7 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 1630px;
+    left: 580px;
+}
+
+.p-8 {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 1670px;
+    left: 580px;
+}
+
+.Con-Inp-1 {
+    width: 700px;
+    height: 30px;
+    position: absolute;
+    top: 1720px;
+    left: 580px;
+}
+
+.Con-Inp-2 {
+    width: 700px;
+    height: 30px;
+    position: absolute;
+    top: 1770px;
+    left: 580px;
+}
+
+.Con-Inp-3 {
+    width: 700px;
+    height: 30px;
+    position: absolute;
+    top: 1820px;
+    left: 580px;
+}
+
+.Con-Butt {
+    color: white;
+    background-color: rgb(2, 182, 2);
+    width: 220px;
+    height: 36px;
+    position: absolute;
+    left: 10px;
+    cursor: pointer;
+    position: absolute;
+    top: 1880px;
+    left: 580px;
+}
+
+.Con-Butt:hover {
+    color: black;
+    background-color: rgb(172, 172, 172);
+}
+
+.Menu-Button {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width: 900px) {
+    .Side-bar {
+        background-color: rgb(238, 238, 238);
+        width: 190px;
+        height: 747px;
+        position: absolute;
+        left: 200px;
+    }
+    
+    .Side-h2-1 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        margin-left: 15px;
+    }
+    
+    .Side-h2-2 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        margin-left: 15px;
+    }
+    
+    .Side-h4-1 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        margin-left: 15px;
+    }
+    
+    .Input-1 {
+        width: 165px;
+        height: 30px;
+        position: absolute;
+        left: 10px;
+        top: 215px;
+    }
+    
+    .Input-2 {
+        width: 165px;
+        height: 30px;
+        position: absolute;
+        left: 10px;
+        top: 305px;
+    }
+    
+    .Input-3 {
+        width: 165px;
+        height: 30px;
+        position: absolute;
+        left: 10px;
+        top: 395px;
+    }
+    
+    .Input-4 {
+        width: 165px;
+        height: 30px;
+        position: absolute;
+        left: 10px;
+        top: 485px;
+    }
+    
+    .Label-1 {
+        width: 210px;
+        height: 30px;
+        position: absolute;
+        left: 20px;
+        top: 185px;
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+    }
+    
+    .Label-2 {
+        width: 210px;
+        height: 30px;
+        position: absolute;
+        left: 20px;
+        top: 275px;
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+    }
+    
+    .Label-3 {
+        width: 210px;
+        height: 30px;
+        position: absolute;
+        left: 20px;
+        top: 365px;
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+    }
+    
+    .Label-4 {
+        width: 210px;
+        height: 30px;
+        position: absolute;
+        left: 20px;
+        top: 455px;
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+    }
+    
+    .button-1 {
+        position: absolute;
+        top: 535px;
+        color: white;
+        background-color: rgb(2, 182, 2);
+        width: 165px;
+        height: 36px;
+        position: absolute;
+        left: 10px;
+        cursor: pointer;
+    }
+    
+    .button-1:hover {
+        background-color: rgb(172, 172, 172);
+        color: black 3;
+    }
+    
+    .h1-1 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        color: rgb(2, 182, 2);
+        position: absolute;
+        left: 545px;
+        top: -10px;
+        font: 10px;
+    }
+    
+    #Main-Img {
+        width: 360px;
+        position: absolute;
+        top: 65px;
+        left: 546px;
+    }
+    
+    .Img {
+        width: 150px;
+        position: absolute;
+        top: 455px;
+        opacity: 0.5;
+        cursor: pointer;
+    }
+    
+    .Img-1 {
+        position: absolute;
+        left: 546px;
+        opacity: 1.0;
+    }
+    
+    .Img-2 {
+        position: absolute;
+        left: 720px;
+    }
+    
+    .Img-3 {
+        position: absolute;
+        left: 545px;
+        top: 580px;
+    }
+    
+    .Img-4 {
+        position: absolute;
+        left: 722px;
+        top: 580px;
+    }
+    
+    
+    Img:hover {
+        opacity: 1.0;
+    }
+    
+    .Main-h2-1 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 550px;
+        top: 660px;
+    }
+    
+    .Main-h3-1 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 710px;
+    }
+    
+    .Main-h3-2 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 745px;
+    }
+    
+    .Main-h3-3 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 785px;
+    }
+    
+    .Main-h3-4 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 900px;
+        top: 600px;
+    }
+    
+    .Main-h3-5 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 900px;
+        top: 650px;
+    }
+    
+    .Main-h2-2 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 850px;
+    }
+    
+    .Main-h3-6 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 900px;
+    }
+    
+    .Main-h3-7 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 935px;
+    }
+    
+    .Main-h3-8 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 965px;
+    }
+    
+    .Main-h3-9 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 900px;
+        top: 850px;
+    }
+    
+    .Main-h3-10 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 900px;
+        top: 900px;
+    }
+    
+    .Main-h3-11 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 900px;
+        top: 950px;
+    }
+    
+    .Main-h2-3 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 1040px;
+    }
+    
+    .p-1 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 1100px;
+    }
+    
+    .p-2 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 1200px;
+    }
+    
+    .Main-h2-4 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 1270px;
+    }
+    
+    .p-3 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 1320px;
+    }
+    
+    .p-4 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 1395px;
+    }
+    
+    .Main-butt-1 {
+        color: white;
+        background-color: rgb(2, 182, 2);
+        width: 200px;
+        height: 36px;
+        position: absolute;
+        left: 10px;
+        cursor: pointer;
+        position: absolute;
+        top: 1500px;
+        left: 560px;
+    }
+    
+    .Main-butt-1:hover {
+        color: black;
+        background-color: rgb(172, 172, 172);
+    }
+    
+    .h1-2 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        top: 1540px;
+        left: 560px;
+    }
+    
+    .p-5 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        top: 1600px;
+        left: 580px;
+    }
+    
+    .p-6 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        top: 1625px;
+        left: 580px;
+    }
+    
+    .p-7 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        top: 1650px;
+        left: 580px;
+    }
+    
+    .p-8 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        top: 1700px;
+        left: 580px;
+    }
+    
+    .Con-Inp-1 {
+        width: 700px;
+        height: 30px;
+        position: absolute;
+        top: 1750px;
+        left: 580px;
+    }
+    
+    .Con-Inp-2 {
+        width: 700px;
+        height: 30px;
+        position: absolute;
+        top: 1800px;
+        left: 580px;
+    }
+    
+    .Con-Inp-3 {
+        width: 700px;
+        height: 30px;
+        position: absolute;
+        top: 1850px;
+        left: 580px;
+    }
+    
+    .Con-Butt {
+        color: white;
+        background-color: rgb(2, 182, 2);
+        width: 220px;
+        height: 36px;
+        position: absolute;
+        left: 10px;
+        cursor: pointer;
+        position: absolute;
+        top: 1900px;
+        left: 580px;
+    }
+    
+    .Con-Butt:hover {
+        color: black;
+        background-color: rgb(172, 172, 172);
+    }
+}
+
+
+
+
+
+
+
+
+
+@media all and (max-width: 500px) {
+    .Side-bar {
+        background-color: rgb(238, 238, 238);
+        width: 190px;
+        height: 747px;
+        position: absolute;
+        left: 200px;
+        display: none;
+    }
+    
+    .Side-h2-1 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        margin-left: 15px;
+    }
+    
+    .Side-h2-2 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        margin-left: 15px;
+    }
+    
+    .Side-h4-1 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        margin-left: 15px;
+    }
+    
+    .Input-1 {
+        width: 165px;
+        height: 30px;
+        position: absolute;
+        left: 10px;
+        top: 215px;
+    }
+    
+    .Input-2 {
+        width: 165px;
+        height: 30px;
+        position: absolute;
+        left: 10px;
+        top: 305px;
+    }
+    
+    .Input-3 {
+        width: 165px;
+        height: 30px;
+        position: absolute;
+        left: 10px;
+        top: 395px;
+    }
+    
+    .Input-4 {
+        width: 165px;
+        height: 30px;
+        position: absolute;
+        left: 10px;
+        top: 485px;
+    }
+    
+    .Label-1 {
+        width: 210px;
+        height: 30px;
+        position: absolute;
+        left: 20px;
+        top: 185px;
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+    }
+    
+    .Label-2 {
+        width: 210px;
+        height: 30px;
+        position: absolute;
+        left: 20px;
+        top: 275px;
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+    }
+    
+    .Label-3 {
+        width: 210px;
+        height: 30px;
+        position: absolute;
+        left: 20px;
+        top: 365px;
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+    }
+    
+    .Label-4 {
+        width: 210px;
+        height: 30px;
+        position: absolute;
+        left: 20px;
+        top: 455px;
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+    }
+    
+    .button-1 {
+        position: absolute;
+        top: 535px;
+        color: white;
+        background-color: rgb(2, 182, 2);
+        width: 165px;
+        height: 36px;
+        position: absolute;
+        left: 10px;
+        cursor: pointer;
+    }
+    
+    .button-1:hover {
+        background-color: rgb(172, 172, 172);
+        color: black 3;
+    }
+    
+    .h1-1 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        color: rgb(2, 182, 2);
+        position: absolute;
+        top: 845px;
+        left: 196px;
+        font-size: 10px;
+    }
+    
+    #Main-Img {
+        width: 200px;
+        position: absolute;
+        top: 805px;
+        left: 196px;
+    }
+    
+    .Img {
+        width: 150px;
+        position: absolute;
+        top: 975px;
+        opacity: 0.5;
+        cursor: pointer;
+    }
+    
+    .Img-1 {
+        position: absolute;
+        left: 202px;
+        opacity: 1.0;
+    }
+    
+    .Img-2 {
+        position: absolute;
+        left: 202px;
+        top: 1075px;
+    }
+    
+    .Img-3 {
+        position: absolute;
+        left: 202px;
+        top: 1175px;
+    }
+    
+    .Img-4 {
+        position: absolute;
+        left: 202px;
+        top: 1275px;
+    }
+    
+    
+    Img:hover {
+        opacity: 1.0;
+    }
+    
+    .Main-h2-1 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 550px;
+        top: 660px;
+    }
+    
+    .Main-h3-1 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 710px;
+    }
+    
+    .Main-h3-2 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 745px;
+    }
+    
+    .Main-h3-3 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 785px;
+    }
+    
+    .Main-h3-4 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 900px;
+        top: 600px;
+    }
+    
+    .Main-h3-5 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 900px;
+        top: 650px;
+    }
+    
+    .Main-h2-2 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 850px;
+    }
+    
+    .Main-h3-6 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 900px;
+    }
+    
+    .Main-h3-7 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 935px;
+    }
+    
+    .Main-h3-8 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 965px;
+    }
+    
+    .Main-h3-9 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 900px;
+        top: 850px;
+    }
+    
+    .Main-h3-10 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 900px;
+        top: 900px;
+    }
+    
+    .Main-h3-11 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 900px;
+        top: 950px;
+    }
+    
+    .Main-h2-3 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 1040px;
+    }
+    
+    .p-1 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 1100px;
+    }
+    
+    .p-2 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 1200px;
+    }
+    
+    .Main-h2-4 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 1270px;
+    }
+    
+    .p-3 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 1320px;
+    }
+    
+    .p-4 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 560px;
+        top: 1395px;
+    }
+    
+    .Main-butt-1 {
+        color: white;
+        background-color: rgb(2, 182, 2);
+        width: 200px;
+        height: 36px;
+        position: absolute;
+        left: 10px;
+        cursor: pointer;
+        position: absolute;
+        top: 1500px;
+        left: 560px;
+    }
+    
+    .Main-butt-1:hover {
+        color: black;
+        background-color: rgb(172, 172, 172);
+    }
+    
+    .h1-2 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        top: 1540px;
+        left: 560px;
+    }
+    
+    .p-5 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        top: 1600px;
+        left: 580px;
+    }
+    
+    .p-6 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        top: 1625px;
+        left: 580px;
+    }
+    
+    .p-7 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        top: 1650px;
+        left: 580px;
+    }
+    
+    .p-8 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif;
+        position: absolute;
+        top: 1700px;
+        left: 580px;
+    }
+    
+    .Con-Inp-1 {
+        width: 700px;
+        height: 30px;
+        position: absolute;
+        top: 1750px;
+        left: 580px;
+    }
+    
+    .Con-Inp-2 {
+        width: 700px;
+        height: 30px;
+        position: absolute;
+        top: 1800px;
+        left: 580px;
+    }
+    
+    .Con-Inp-3 {
+        width: 700px;
+        height: 30px;
+        position: absolute;
+        top: 1850px;
+        left: 580px;
+    }
+    
+    .Con-Butt {
+        color: white;
+        background-color: rgb(2, 182, 2);
+        width: 220px;
+        height: 36px;
+        position: absolute;
+        left: 10px;
+        cursor: pointer;
+        position: absolute;
+        top: 1900px;
+        left: 580px;
+    }
+    
+    .Con-Butt:hover {
+        color: black;
+        background-color: rgb(172, 172, 172);
+    }
+
+    .Menu-Button {
+        display: flex;
+        background-color: rgb(180, 180, 180);
+        color: black; 
+    }
+
+    .Menu-Button:focus .Side-bar{
+            background-color: rgb(238, 238, 238);
+            width: 100px;
+            height: 100%;
+            position: absolute;
+            left: 100px;
+    }
+
+    
+}
+
+
+

@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="Style.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    rel="stylesheet">
+    <title>Document</title>
+
+    <script type="text/javascript">
+        function changeImage(img) {
+            document.getElementById("Img").src = img;
+        }
+    </script>
+
+</head>
+
+<body>
+
+    <button  class="Menu-Button">
+        <span class="material-icons">
+            menux
+            </span>
+    </button>
+
+
+
+
+
+    <div class="Side-bar">
+        <h2 class="Side-h2-1">
+            Rentel
+        </h2>
+        <h2 class="Side-h2-2">
+            from$99
+        </h2>
+
+        <h4 class="Side-h4-1">
+            per night
+        </h4>
+        <label class="Label-1">Check In</label>
+        <br>
+        <input type="text" placeholder="DD MM YYYY" class="Input-1">
+        <br>
+        <label class="Label-2">Check Out</label>
+        <br>
+        <input type="text" placeholder="DD MM YYYY" class="Input-2">
+        <br>
+        <label class="Label-3">Adults</label>
+        <br>
+        <input type="number" max="6" min="1" class="Input-3">
+        <br>
+        <label class="Label-4">Kids</label>
+        <br>
+        <input type="number" max="6" min="1" class="Input-4">
+
+        <button class="button-1">
+            Search availability
+        </button>
+
+    </div> 
+
+    <div>
+        <h1 class="h1-1">
+            The Apartment
+        </h1>
+
+        <img src="images/livingroom.jpg" Id="Main-Img">
+
+        <img src="images/livingroom.jpg" class="Img-1 Img" onclick='changeImage("images/livingroom");'>
+        <img src="images/diningroom.jpg" class="Img-2 Img" onclick='changeImage("images/diningroom");'>
+        <img src="images/bedroom.jpg" class="Img-3 Img">
+        <img src="images/livingroom2.jpg" class="Img-4 Img">
+    </div>
+
+    <div>
+        <h2 class="Main-h2-1">
+            The space
+        </h2>
+        <h3 class="Main-h3-1">
+            Max people: 4
+        </h3>
+
+        <h3 class="Main-h3-2">
+            bathrooms:2
+        </h3>
+
+        <h3 class="Main-h3-3">
+            Bedrooms: 1
+        </h3>
+
+        <h3 class="Main-h3-4">
+            Check In: After 3PM
+        </h3>
+
+        <h3 class="Main-h3-5">
+            Check Out: 12PM
+        </h3>
+    </div>
+
+
+    <div>
+        <h2 class="Main-h2-2">
+            Amenities
+        </h2>
+        <h3 class="Main-h3-6">
+            Shower
+        </h3>
+
+        <h3 class="Main-h3-7">
+            WiFi
+        </h3>
+
+        <h3 class="Main-h3-8">
+            TV
+        </h3>
+
+        <h3 class="Main-h3-9">
+            Kitchen
+        </h3>
+
+        <h3 class="Main-h3-10">
+            Heating
+        </h3>
+
+        <h3 class="Main-h3-11">
+            Accessible
+        </h3>
+    </div>
+
+    <div>
+        <h2 class="Main-h2-3">
+            Extra Info
+        </h2>
+
+        <p class="p-1">
+            Our apartment is really clean and we like to keep it that way. Enjoy the lorem ipsum dolor sit amet, <br>
+            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut <br> enim
+            ad
+            minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <br> consequat.
+        </p>
+
+        <p class="p-2">
+            We accept:
+        </p>
+    </div>
+
+    <div>
+        <h2 class="Main-h2-4">
+            Rules
+        </h2>
+
+        <p class="p-3">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <br> labore et
+            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <br> nisi ut aliquip ex
+            ea commodo consequat.
+        </p>
+
+        <p class="p-4">
+            Subscribe to receive updates on available dates and special offers.
+        </p>
+
+        <button class="Main-butt-1">
+            Subscribe
+        </button>
+    </div>
+
+<div>
+    <h1 class="h1-2">
+        Contact
+    </h1>
+    <p class="p-5">
+        Chicago, US
+
+    </p>
+
+    <p class="p-6">
+        Phone: +00 151515
+    </p>
+
+    <p class="p-7">
+        Email: mail@mail.com
+    </p>
+
+    <p class="p-8">
+        Questions? Go ahead, ask them:
+    </p>
+
+    <input type="text" placeholder="Name" class="Con-Inp-1">
+    <input type="text" placeholder="Email" class="Con-Inp-2">
+    <input type="text" placeholder="Message" class="Con-Inp-3">
+
+    <button class="Con-Butt">
+            Send A Message
+    </button>
+</div>
+
+
+</body>
+
+</html>
